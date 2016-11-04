@@ -1,0 +1,2 @@
+# kafka_python_celery
+利用kafka做消息队列，celery做任务队列执行api程序
